@@ -837,5 +837,8 @@
 
   <!-- LineageOS -->
   <include name="snippets/lineage.xml" />
+	
+  <!-- Add echilada repo -->
+  <include name="snippets/op8t.xml" />
 
 </manifest>
